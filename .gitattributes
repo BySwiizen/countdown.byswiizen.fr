@@ -1,0 +1,6 @@
+* text=auto
+
+*.php text diff=php
+*.html text diff=html
+*.css text diff=css
+*.js text
