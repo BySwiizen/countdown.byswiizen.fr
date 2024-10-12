@@ -13,3 +13,6 @@ $RECYCLE.BIN/
 .idea/
 *.iml
 *.iws
+
+# Vidéo
+fs25/trailer/assets/img/video.mp4

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	background: url("https://countdown.byswiizen.fr/fs25/assets/img/bg.jpg") no-repeat center;
+	background-size: cover;
+}
+
+main {
+	text-align: center;
+}
+
+.time {
+	position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #D50000;
+    font-size: 90px;
+}
+
+.time span {
+    padding: 0 13px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    line-height: 40px;
+}
+
+.copyright {
+	color: #BCBCBC;
+	font-size: 15px;
+}
+
+.copyright a {
+    color: #D50000;
+    text-decoration: none;
+}

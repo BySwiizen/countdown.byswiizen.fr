@@ -1,0 +1,23 @@
+.popup{
+    position: absolute;
+    display: none;
+    top: 5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.popup a{
+    text-decoration: none;
+}
+
+button{
+    margin: 5px auto;
+    padding: 4px;
+    width: 180px;
+    border: none;
+	border-radius: 5%;
+    background-color: #D50000;
+    color: #FFF;
+    font-size: 20px;
+    cursor: pointer;
+}
