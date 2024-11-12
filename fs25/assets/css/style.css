@@ -15,18 +15,23 @@ main {
 	text-align: center;
 }
 
-.time {
+h1 {
 	position: absolute;
-    display: flex;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: #D50000;
-    font-size: 90px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: #D50000;
+	font-size: 100px;
 }
 
-.time span {
-    padding: 0 13px;
+h3 {
+	position: absolute;
+    bottom: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #BA0000;
+    font-size: 16px;
+	font-style: italic;
 }
 
 footer {
